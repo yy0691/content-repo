@@ -2,6 +2,10 @@
 
 这是博客的内容仓库，包含所有文章、配置文件和静态资源。
 
+**仓库地址**: https://github.com/yy0691/content-repo.git
+
+**前端仓库**: https://github.com/yy0691/creative-thought-haven.git
+
 ## 目录结构
 
 ```

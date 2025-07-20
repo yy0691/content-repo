@@ -1,0 +1,27 @@
+{
+  "name": "blog-content",
+  "version": "1.0.0",
+  "description": "博客内容仓库",
+  "private": true,
+  "scripts": {
+    "validate": "node scripts/validate-content.js",
+    "format": "prettier --write \"**/*.{md,mdx,yaml,yml}\"",
+    "lint": "markdownlint \"**/*.md\" \"**/*.mdx\""
+  },
+  "devDependencies": {
+    "prettier": "^3.0.0",
+    "markdownlint-cli": "^0.35.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yy0691/content-repo.git"
+  },
+  "keywords": [
+    "blog",
+    "content",
+    "markdown",
+    "mdx"
+  ],
+  "author": "yy0691",
+  "license": "MIT"
+} 
