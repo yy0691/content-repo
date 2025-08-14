@@ -1,14 +1,16 @@
 ---
 title: Chatgpt Memory Update
-description: "Chatgpt 记忆功能重大升级:可以跨聊天对话记住与你相关的所有信息"
+description: "\"Chatgpt 记忆功能重大升级:可以跨聊天对话记住与你相关的所有信息\""
 author: Chatgpt
 date: 2025-04-12
 image: https://jsd.onmicrosoft.cn/gh/yy0691/img-bed@main/Blog/AiNews/img_v3_02l8_46bba650-dd37-43d4-a2a7-c29cbf08388g.jpg
 link: https://x.com/gregisenberg/status/1906697683089101113
 category: ai-news
-tags: ["ChatGPT","记忆功能","AI助手"]
+tags: "[\"ChatGPT\",\"记忆功能\",\"AI助手\"]"
 featured: false
 ---
+
+
 
 
 # ChatGPT 记忆功能重大升级
